@@ -1,4 +1,4 @@
->html>
+<html>
 <head>
 <body><banner>
 <img src="shinji.png"
